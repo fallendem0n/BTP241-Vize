@@ -1,3 +1,8 @@
+# btp241dennasil100aliyorum.docx
+
+---
+
+
 ### 1. Sunucu-İstemci Mimarisi
 | Soru | Cevap |
 | :--- | :--- |
