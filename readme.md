@@ -2,10 +2,10 @@
 
 ---
 ## Kullanıcı Sözleşmesi
-### Bu sayfaya erişen herkes şartları okuyup kabul etmiş sayılır.
-### Vizeden 80 aşağısı almanız takdirde sınıfa ilk derste tatlı almanız zorunludur.
-### Sınavda bu sorular çıkmazsa tazminat olarak yemek ısmarlayacağım.
-### Tazminat ödemeleri için hkurtogluirl@gmail.com adresinden iletişime geçebilirsiniz.
+|** Bu sayfaya erişen herkes şartları okuyup kabul etmiş sayılır. |
+|** Vizeden 80 aşağısı almanız takdirde sınıfa ilk derste tatlı almanız zorunludur. |
+|** Sınavda bu sorular çıkmazsa tazminat olarak yemek ısmarlayacağım. |
+|** Tazminat ödemeleri için hkurtogluirl@gmail.com adresinden iletişime geçebilirsiniz. |
 
 
 ### 1. Sunucu-İstemci Mimarisi
