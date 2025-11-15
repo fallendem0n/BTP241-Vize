@@ -4,6 +4,8 @@
 | **Sunucu – istemci mimarisinin sağladığı yarar nedir?** | Bağlanılabilirlik ve iletişim tek bir kaynak üzerinden dağıtılabilir. İnternet erişimi sağlanır ve paylaştırılabilir. Veri güvenliğinin sağlanması daha kolaydır. Başarım iyileştirilmesi yapılabilir ve yük denegeleme daha kolaylıkla gerçekleştirilir. Ağın büyüklüğüne bağlı olarak maliyet avantajı sağlayabilir. |
 | **Eşler arası ağın sağladığı yararlar nelerdir?** | Ağı oluşturan bilgisayarların tümü hem sunucu hem de istemci rolünü üstlenebilir. Verilerin paylaşılmasını kolaylaştırır. Maliyeti görece olarak azdır. |
 
+---
+
 ### 2. Bilgisayar Ağlarının Genel Etkileri
 | Soru | Cevap |
 | :--- | :--- |
@@ -17,6 +19,8 @@
 | :--- | :--- |
 | **Ağ mimarisi kavramını açıklayınız.** | Mimari, donanım ve yazılımın birlikte çalışması ile ortaya çıkan katmanlardan oluşan bir yapıyı ve yapının işleyişini düzenleyen kuralların tanımlanmasıdır. |
 | **Ağ modeli kavramını açıklayınız.** | Bir model ağdaki katmanları, katmanların görevlerini ve aralarındaki etkileşimin nasıl gerçekleştiğini tanımlar. Tüm taraflar tarafından üzerinde uzlaşılmış olan bir model hem donanım hem de yazılımın beklendiği gibi çalışmasını sağlar. |
+
+---
 
 ### 4. Protokol Kavramı
 | Soru | Cevap |
@@ -53,11 +57,15 @@
 | :--- | :--- |
 | **Aynı ağ üzerinde bulunan iki bilgisayar arasında gerçekleşen haberleşme hangi tür haberleşmedir?** | **UNICAST** haberleşmedir. |
 
+---
+
 ### 9. Performans Etkenleri
 | Soru | Cevap |
 | :--- | :--- |
 | **Aşağıda verilen etkenlerden hangisi ağ performansına etki eder?** | Hız, bant genişliği, gecikme. |
 | **Aşağıda verilen etkenlerden hangisi ağ performansına etki etmez?** | Tasarım ve kurulum maliyeti, kalite, standartlar, genişletilebilirlik ve güncellenebilirlik, yönetim ve bakım kolaylığı. |
+
+---
 
 ### 10. Hız Kavramları
 | Soru | Cevap |
