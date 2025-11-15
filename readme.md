@@ -1,17 +1,16 @@
 # btp2.4.1_h4ndshake.sme
 
 ---
-## 📝 Kullanıcı Sözleşmesi ve Proje Şartları
+## 📝 Kullanıcı Sözleşmesi 
 
 Bu proje deposuna (repository) erişen her kullanıcı, aşağıdaki şartları *okumuş ve kabul etmiş* sayılır.
 
-| Madde No | Şartın Açıklaması | Durum/Not |
+| Madde No | Şartın Açıklaması |
 | :---: | :--- | :--- |
-| **1** | Bu sayfaya erişen herkes, aşağıdaki tüm şartları okuyup **kabul etmiş** sayılır. | **Kabul Zorunluluğu** |
-| **2** | Vize sınavından notunuzun **80'in altında** olması durumunda, bir sonraki dersin başlangıcında tüm sınıfa **tatlı ısmarlamanız zorunludur.** | **Bağlayıcı Tatlı Yükümlülüğü** |
-| **3** | Sınavda bu dökümandaki soruların veya konuların çıkmaması durumunda, **tazminat olarak** ilgili kişiye/kişilere yemek ısmarlayacağım. | **Tazminat Garantisi** |
-| **4** | Tazminat ödemeleri ve diğer konular için benimle **hkurtogluirl@gmail.com** e-posta adresi üzerinden iletişime geçebilirsiniz. | **İletişim Adresi** |
-
+| **1** | Bu sayfaya erişen herkes, aşağıdaki tüm şartları okuyup **kabul etmiş** sayılır.
+| **2** | Vize sınavından notunuzun **80'in altında** olması durumunda, bir sonraki dersin başlangıcında tüm sınıfa **tatlı ısmarlamanız zorunludur.** 
+| **3** | Sınavda bu dökümandaki soruların veya konuların çıkmaması durumunda, **tazminat olarak** ilgili kişiye/kişilere yemek ısmarlayacağım. 
+| **4** | Tazminat ödemeleri ve diğer konular için benimle **hkurtogluirl@gmail.com** e-posta adresi üzerinden iletişime geçebilirsiniz. 
 
 ### 1. Sunucu-İstemci Mimarisi
 | Soru | Cevap |
