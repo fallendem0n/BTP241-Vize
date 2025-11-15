@@ -1,11 +1,16 @@
 # btp2.4.1_h4ndshake.sme
 
 ---
-## Kullanıcı Sözleşmesi
-|** Bu sayfaya erişen herkes şartları okuyup kabul etmiş sayılır. |
-|** Vizeden 80 aşağısı almanız takdirde sınıfa ilk derste tatlı almanız zorunludur. |
-|** Sınavda bu sorular çıkmazsa tazminat olarak yemek ısmarlayacağım. |
-|** Tazminat ödemeleri için hkurtogluirl@gmail.com adresinden iletişime geçebilirsiniz. |
+## 📝 Kullanıcı Sözleşmesi ve Proje Şartları
+
+Bu proje deposuna (repository) erişen her kullanıcı, aşağıdaki şartları *okumuş ve kabul etmiş* sayılır.
+
+| Madde No | Şartın Açıklaması | Durum/Not |
+| :---: | :--- | :--- |
+| **1** | Bu sayfaya erişen herkes, aşağıdaki tüm şartları okuyup **kabul etmiş** sayılır. | **Kabul Zorunluluğu** |
+| **2** | Vize sınavından notunuzun **80'in altında** olması durumunda, bir sonraki dersin başlangıcında tüm sınıfa **tatlı ısmarlamanız zorunludur.** | **Bağlayıcı Tatlı Yükümlülüğü** |
+| **3** | Sınavda bu dökümandaki soruların veya konuların çıkmaması durumunda, **tazminat olarak** ilgili kişiye/kişilere yemek ısmarlayacağım. | **Tazminat Garantisi** |
+| **4** | Tazminat ödemeleri ve diğer konular için benimle **hkurtogluirl@gmail.com** e-posta adresi üzerinden iletişime geçebilirsiniz. | **İletişim Adresi** |
 
 
 ### 1. Sunucu-İstemci Mimarisi
